@@ -1,3 +1,3 @@
 #Analytics
-[live web](https://github.com/elijahkangethe/IS117Analytics.git)
+[live web](https://elijahkangethe.github.io/IS117Analytics/)
 Created by Elijah Kangethe & Alex H
